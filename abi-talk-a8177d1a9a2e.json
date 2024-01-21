@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "abi-talk",
+  "private_key_id": "a8177d1a9a2eafc2cba155798a172d38b030ddea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvhPkK2AhKM4fz\na547fFKi239b0ue5Qop9f9+7SPAtVo7rIKUop67DU3lxuU7TY+efduWFpzgMPCj2\n9N3n7EzUndrIIK16i2hjM+hSFERmIj+2rA7GL8qHeSYMCtVjND3cXpA7KkZtWXzB\ngdUV+JXpaNbsTbYCEcwvXQVSK3l9NMaYIvhRczO0ZLnGrocDeODbP41UfXekwhRX\nIaJIYipBhF7Zfa3OwskFBjVYhKqUkfi57xmMYUrKcc7VeASkT7LBeFOYvVbUsGpW\nNUy41POLBW6JLofe4tJL/3H4RPWp5HkVfOVS4/2NAovQO9biBEHqFJB698hFKHZj\n7n2JPBelAgMBAAECggEAEW32/Siuyg+L9JQ/RlD2M83wO8IZ2L/O2N+V7Bc2Iopx\n7s9zFzJvnF3xtWVdeoh1O9Smvjr4yd4/gyaV0q4YgxSZ4T29fGnTl+ZTr7Lrh+jm\nwtEbNnsQdZuGN7PrtMo/Sl7pm7Z6/+jfBqhJ7MCewmryzMx6woHZ8Oof2SUQD2rA\nIk+puqfsTkrH9wdGnOaACR3xMLIlZh3vW+1GoN6yCdfVoi60doVWllfFYEWj7rjS\n5vWYU7i7QNuNKvROQAWePyPij1nRilEohvqywc8rSBIXzTCkKrc0fL+ZQ4wgtq+A\nyXHd/lSnJEkDV3hdD5cbt8yYMwyEzWO4VNbvuyhTkQKBgQDYH3UVJbJ/rzDn49Cp\nUa2HFKuN7iKXrUlju55rg0KlAvYq45dsAaWYzd4aX132sEzAlsCfFS55GQAg1Txo\nLeBCT/esKu84sa6UuDiuBiBb5cz8drTGhZoBf/URV4EYXAlNJiHO8Y6gjq6gLFQT\n2zsaLQomaftkjP682SzkAdl+owKBgQDP552FneuKtXbq1TUgt2o7bFd8iuKUvtqA\nEnC0Pyut0XEdYYKNwCQRY29kxCon/3YW8jpOrAZUsug87cP7VCOqydizQoU7ZcXG\nMSJ4wgypnNO//G4O8e8Ayf3eOQUm/PjuN/HYiTHnGvVe9Ho6nEG1ZEkx6IUgxdTZ\nJXR6cxXdFwKBgQDQp046ZHK4o0LsHh3N2nVV/LbECCyNk1dPWkvQMKGe/gT7007V\nj6F4rQjJHVlyWTNAnErLS3/amjBtgnEXg3MHknzjU3AxpBmQq2rNWEzVbD9DXreZ\nElNlL0xCueCAzBqOyUnKqZuxlw8wxJtHsFiXJPSvsZJruVQWrvWQC9kXUQKBgFK2\nScPzzNaVVSceBZHrhnb3pmKk+nnE6DbVn0MGcsEnNwJCXec5DuBgF9wV8tOQ3ZFJ\ncwsDg01FFAHRcgvWMI5s2SqQB2NXHPS5bYZvZQxBmTijG8IUXEqLEdXMB5G4SOy1\nEyFbi5/u6LmLN+mDatzYdgpGAFjGe+Sb8xgYGxWnAoGBAI+PDynkDfS1w7AzRajq\na8/WbUBPhH18qw+wpUA5xkHojJgt4RXeEX5iYWfHrwOshhqpoqFgppHZK90+QlBu\ntSWM3mRe8Hnkoo7He5CZhZIBkzFxxVs/2gt1kFvaiv+G9eT73JXsNX8yRkL37jZ1\n2jYr4idrGog6Y48MQ/vWyMYq\n-----END PRIVATE KEY-----\n",
+  "client_email": "abitalk@abi-talk.iam.gserviceaccount.com",
+  "client_id": "111493694699494746070",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abitalk%40abi-talk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
